@@ -1,8 +1,11 @@
 # Chest X-Ray Classification Using Deep Learning
 
+This project was created to learn the basics of **PyTorch**, as I am more familiar with **TensorFlow**.
+
 ## 📊 Project Overview
 
-This project focuses on classifying chest X-ray images into **Normal** and **Pneumonia** categories using a deep learning model. The dataset comes from the popular chest X-ray dataset hosted on Kaggle. The model leverages convolutional neural networks (CNNs) to analyze medical imaging data and assist in automated diagnosis.
+A simple project that focuses on classifying chest X-ray images into **Normal** and **Pneumonia** categories using a deep learning model. The dataset comes from the popular chest X-ray dataset hosted on Kaggle. The model leverages convolutional neural networks (CNNs) to analyze medical imaging data and assist in automated diagnosis.
+
 
 ## 🚀 Features
 - Image preprocessing and augmentation for robust model training
