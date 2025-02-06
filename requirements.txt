@@ -1,0 +1,14 @@
+PIL
+matplotlib.pyplot
+numpy
+pandas
+timm
+torch
+torch.nn
+torch.nn.functional
+torch.optim
+torch.utils.data
+torchvision
+torchvision.datasets
+torchvision.transforms
+tqdm.notebook
